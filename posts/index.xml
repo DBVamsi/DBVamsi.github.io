@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bhaskar Vamsi ka Personal Blog</title>
-    <link>https://DBVamsi.github.io/posts/</link>
+    <link>https://dbvamsi.github.io/posts/</link>
     <description>Recent content in Posts on Bhaskar Vamsi ka Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 22:00:57 +0530</lastBuildDate><atom:link href="https://DBVamsi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 22:00:57 +0530</lastBuildDate><atom:link href="https://dbvamsi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>https://DBVamsi.github.io/posts/mypost/</link>
+      <link>https://dbvamsi.github.io/posts/mypost/</link>
       <pubDate>Sun, 24 Jul 2022 22:00:57 +0530</pubDate>
       
-      <guid>https://DBVamsi.github.io/posts/mypost/</guid>
+      <guid>https://dbvamsi.github.io/posts/mypost/</guid>
       <description>This is my first post Lets create a static site with HuGo!
 { &amp;#34;This&amp;#34;: { &amp;#34;is&amp;#34;:&amp;#34;JSON&amp;#34; } } </description>
     </item>
