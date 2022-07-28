@@ -17,16 +17,16 @@
     <loc>https://dbvamsi.github.io/about/</loc>
   </url><url>
     <loc>https://dbvamsi.github.io/contact/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://dbvamsi.github.io/contact/contact/</loc>
-  </url><url>
-    <loc>https://dbvamsi.github.io/resume/</loc>
-  </url><url>
-    <loc>https://dbvamsi.github.io/resume/cv/</loc>
+    <loc>https://dbvamsi.github.io/cv/resume/</loc>
   </url><url>
     <loc>https://dbvamsi.github.io/resume/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://dbvamsi.github.io/categories/</loc>
+  </url><url>
+    <loc>https://dbvamsi.github.io/cv/</loc>
   </url><url>
     <loc>https://dbvamsi.github.io/series/</loc>
   </url><url>
